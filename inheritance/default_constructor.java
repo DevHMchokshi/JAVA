@@ -17,7 +17,7 @@ public class default_constructor {
 		// TODO Auto-generated method stub
 		
 //
-		new child();
+	new child();
 
 	}
 
