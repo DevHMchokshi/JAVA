@@ -27,7 +27,7 @@ public class herrirechay_with_parameter {
 		DEV_2 DEV2= new DEV_2();
         DEV2.display("Dev");
 
-        DEV DEV3 = new DEV();
+        DEV DEV3 = new DEV(); 
         DEV3.display("Chokshi");
 		
 		
